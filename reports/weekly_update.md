@@ -9,7 +9,7 @@
 ## ✅ What I completed
 
 - Set up the project repository with a clean, reproducible folder structure (`data/`, `notebooks/`, `src/`, `reports/`, `powerbi/`)
-- Downloaded the Amazon Fine Food Reviews dataset from Kaggle (~568K reviews)
+- Downloaded the Amazon Fine Food Reviews dataset from Kaggle 
 - Built a text-cleaning pipeline in Python that:
   - Removes HTML tags using BeautifulSoup
   - Strips punctuation using `string.punctuation`
