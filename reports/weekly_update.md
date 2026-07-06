@@ -20,9 +20,9 @@
 
 ## 🔍 What I discovered
 
-- The dataset has ~568K reviews after removing nulls and duplicates
+- The dataset has 1547 reviews after removing nulls and duplicates
 - Many reviews contained embedded HTML tags (mainly `<br />`)
-- Average review length dropped noticeably after cleaning (~40–50% reduction in character count due to stopword removal)
+- Average review length dropped noticeably after cleaning 
 - No major data quality issues found — the dataset is well-structured
 
 ## 🚀 What I will do next

@@ -42,7 +42,7 @@ Cleaned Amazon product review text by:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/amazon-reviews-sentiment.git
+   git clone https://github.com/skurlapkar99/amazon-reviews-sentiment.git
    cd amazon-reviews-sentiment
    ```
 
@@ -61,7 +61,7 @@ Cleaned Amazon product review text by:
    ```
 
 4. **Download the dataset:**
-   Download [Amazon Fine Food Reviews from Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) and place `Reviews.csv` in `data/raw/`.
+   Download [Amazon Product Reviews from Kaggle](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset) and place `Reviews.csv` in `data/raw/`.
 
 5. **Run the notebook:**
    ```bash
@@ -71,8 +71,7 @@ Cleaned Amazon product review text by:
 
 ## Dataset
 
-[Amazon Fine Food Reviews (Kaggle)](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) — ~568K reviews of fine foods on Amazon.
-
+[Amazon Product Reviews (Kaggle)](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset) -1597 reviews and 27 columns
 ## Tools
 
 - Python 3.10+ (pandas, BeautifulSoup, NLTK, TextBlob, VADER, matplotlib)
